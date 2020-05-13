@@ -1,0 +1,198 @@
+@charset "utf-8";
+body {
+	margin: 0;
+	padding: 0;
+	font-size: 14px;
+	line-height: 140%;
+	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro","メイリオ", "Meiryo", "Osaka", "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	color: #333;
+	font-size: 16px;
+	line-height: 140%;
+	box-sizing: border-box;
+	text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	-o-text-size-adjust: 100%;
+}
+
+.container, .rows, header, section, footer {
+	width: 100%;
+	float: left;
+}
+
+.cont {
+	width: 100%;
+	max-width: 1170px;
+	margin: 0 auto;
+	position: relative;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+*::after {
+	box-sizing: border-box;
+}
+
+*::before {
+	box-sizing: border-box;
+}
+
+a:hover, a:visited, a:focus {
+	outline: none;
+	border: none;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	display: block;
+}
+
+div.wpcf7-validation-errors {
+	width: 95% !important;
+	float: left !important;
+	border: 2px solid #f7e700 !important;
+	text-align: center !important;
+	font-size: 18px !important;
+	box-sizing: border-box !important;
+}
+
+div.wpcf7-mail-sent-ok {
+	width: 95% !important;
+	float: left !important;
+	border: 2px solid #398f14 !important;
+	text-align: center !important;
+	font-size: 18px !important;
+	box-sizing: border-box !important;
+}
+
+img.alignright {
+	float: right
+}
+
+img.alignleft {
+	float: left
+}
+
+img.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto
+}
+
+/*Css pagenation*/
+
+.wp-pagenavi {
+	width: 100% !important;
+	text-align: center !important
+}
+
+.wp-pagenavi a, .wp-pagenavi span {
+	padding: 6px 10px!important;
+	font-size: 14px;
+	line-height: 1.3333333;
+	position: relative;
+	margin: 0!important;
+	margin-left: -1px!important;
+	color: #48a428;
+	text-decoration: none;
+	background-color: #fff;
+	border: 1px solid #ddd!important
+}
+
+.nextpostslink {
+	border-top-right-radius: 4px!important;
+	border-bottom-right-radius: 4px!important
+}
+
+.previouspostslink {
+	border-top-left-radius: 4px!important;
+	border-bottom-left-radius: 4px!important
+}
+
+.wp-pagenavi span.current {
+	z-index: 2;
+	color: #fff;
+	cursor: default;
+	background-color: #48a428;
+	border: 1px solid #48a428 !important
+}
+
+span.pages {
+	display: none
+}
+
+.wrap-pagi {
+	width: 100%;
+	float: left;
+	margin-top: 50px;
+	text-align: left
+}
+
+.wp-pagenavi a {
+	text-decoration: none!important
+}
+
+.wp-pagenavi a:hover {
+	background: #249898;
+	color: #fff;
+	border: 1px solid #249898!important;
+	text-decoration: none!important
+}
+
+/*End css pagenation*/
+
+/*COMMON*/
+.wrap-header{
+	background: url(./assets/images/general/bg_header.png) left top repeat-x;
+	padding-top: 25px;
+}
+ul.menu li{
+	float: left;
+	text-align: center;
+	padding: 60px 32px 28px 32px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #462900;
+}
+ul.menu li:nth-child(1){
+	background: url(./assets/images/general/nav-1.png) center top 15px no-repeat, url(./assets/images/general/nav-line.png) left center no-repeat;
+}
+ul.menu li:nth-child(2){
+	background: url(./assets/images/general/nav-2.png) center top 15px no-repeat, url(./assets/images/general/nav-line.png) left center no-repeat;
+}
+ul.menu li:nth-child(3){
+	background: url(./assets/images/general/nav-3.png) center top 15px no-repeat, url(./assets/images/general/nav-line.png) left center no-repeat, url(./assets/images/general/nav-line.png) right center no-repeat;
+}
+ul.menu li:nth-child(5){
+	background: url(./assets/images/general/nav-4.png) center top 15px no-repeat, url(./assets/images/general/nav-line.png) left center no-repeat;
+}
+ul.menu li:nth-child(6){
+	background: url(./assets/images/general/nav-5.png) center top 15px no-repeat, url(./assets/images/general/nav-line.png) left center no-repeat;
+}
+ul.menu li:nth-child(7){
+	background: url(./assets/images/general/nav-6.png) center top 15px no-repeat, url(./assets/images/general/nav-line.png) left center no-repeat, url(./assets/images/general/nav-line.png) right center no-repeat;
+}
+ul.menu li:nth-child(4){
+	padding-top: 0;
+}
+span.fz-12{
+	font-size: 12px;
+}
+.wrap-nav{
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+/*END COMMON*/
+
+/*HOME*/
+.owl-dots{
+	display: block !important;
+}
+/*END HOME*/
+/* 
+@media screen and (max-width:960px) {}
+*/
