@@ -1,4 +1,20 @@
 @charset "utf-8";
-@media screen and (max-width:1368px){
+@media screen and (max-width:1000px){
+    .cont{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .title_style01{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
 
+@media screen and (max-width:767px){
+    .hide_sp{
+        display: none;
+    }
+    .show_sp{
+        display: inline-block;
+    }
 }
