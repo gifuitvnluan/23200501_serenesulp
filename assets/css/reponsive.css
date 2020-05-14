@@ -1,20 +1,404 @@
 @charset "utf-8";
-@media screen and (max-width:1000px){
-    .cont{
+
+@media screen and (max-width:1000px) {
+    .cont {
         padding-left: 10px;
         padding-right: 10px;
     }
-    .title_style01{
+
+    .title_style01 {
         padding-left: 10px;
         padding-right: 10px;
+    }
+
+    #sec_01 {
+        padding-top: 4.5vw;
+    }
+
+    #sec_01 .title01 {
+        font-size: 1.8vw;
+        padding-left: 4.5vw;
+        padding-right: 7vw;
+        margin-bottom: 1.8vw;
+    }
+
+    #sec_01 .txt_note {
+        font-size: 3.6vw;
+    }
+
+    #sec_01 .txt_note .txt_fuw {
+        font-size: 6.1vw;
+    }
+
+    #sec_01 .txt_note2 {
+        font-size: 3vw;
+    }
+
+    #sec_01 .txt {
+        font-size: 1.3vw;
+        margin-top: 1vw;
+        margin-bottom: 1.8vw;
+    }
+
+    #sec_01 .ul_txt {
+        margin-bottom: 2vw;
+    }
+
+    #sec_01 .ul_txt li {
+        font-size: 1.6vw;
+    }
+
+    #sec_01 .img01 {
+        margin-bottom: 3vw;
+    }
+
+    #sec_01 .img02 {
+        margin-bottom: 1.2vw;
+    }
+
+    .title_style01 {
+        font-size: 2.5vw;
+        padding-top: 0.8vw;
+        padding-bottom: 0.3vw;
+    }
+
+    .title_style01 .f_big {
+        font-size: 3vw;
+    }
+
+    #sec_02 .all_content {
+        padding-top: 4.5vw;
+        padding-bottom: 2vw;
+    }
+
+    #sec_02 .all_content .ul_cont {
+        margin-bottom: 2.5vw;
+    }
+
+    #sec_02 .all_content .ul_cont li .txt {
+        font-size: 1.8vw;
+        margin-top: 1vw;
+    }
+
+    #sec_02 .all_content .ul_cont li .img::after {
+        width: 1.8vw;
+        height: 2.1vw;
+        right: -0.6vw;
+    }
+
+    #sec_02 .div_all {
+        max-width: 84.8vw;
+        min-height: 21.2vw;
+        padding: 2vw 7vw;
+    }
+
+    #sec_02 .div_all .title_div .icon {
+        min-width: 5vw;
+        margin-right: 3vw;
+    }
+
+    #sec_02 .div_all .title_div .title {
+        font-size: 2.4vw;
+    }
+
+    #sec_02 .div_all .title_div .title .f_big {
+        font-size: 2.8vw;
+    }
+
+    #sec_02 .div_all .txt {
+        max-width: 67vw;
+        font-size: 1.2vw;
+        margin-top: -1vw;
+    }
+
+    #sec_03 .all_conten .div_txt {
+        padding-top: 4vw;
+        padding-bottom: 15.5vw;
+    }
+
+    #sec_03 .all_conten .div_txt .title {
+        font-size: 4vw;
+        margin-bottom: 3vw;
+    }
+
+    #sec_03 .all_conten .div_txt .title .f_small {
+        font-size: 3vw;
+    }
+
+    #sec_03 .all_conten .div_txt .note {
+        font-size: 1.8vw;
+        margin-bottom: 2.5vw;
+    }
+
+    #sec_03 .all_conten .div_txt .txt {
+        font-size: 1.4vw;
+    }
+
+    #sec_04 .div_text.div_text01 {
+        margin-top: 4vw;
+        max-width: 67vw;
+    }
+
+    #sec_04 .div_text .title {
+        font-size: 2.7vw;
+        margin-bottom: 1vw;
+    }
+
+    #sec_04 .div_text .title::before {
+        font-size: 5.8vw;
+        left: -1.5vw;
+    }
+
+    #sec_04 .div_text .title .f_small {
+        font-size: 2vw;
+    }
+
+    #sec_04 .div_text .txt {
+        font-size: 1.1vw;
+        margin-bottom: 1vw;
+    }
+
+    #sec_04 .div_text.div_text02 {
+        max-width: 55.5vw;
+        margin-top: 4vw;
+        padding-bottom: 6vw;
+    }
+
+    #sec_04 .div_text.div_text02 .title {
+        margin-left: 7vw;
+        margin-bottom: 3vw;
+        margin-top: 6.5vw;
+    }
+
+    #sec_04 .cont01 {
+        background-position: bottom 1.5vw left 2vw;
+        background-size: 24.8vw 42.8vw;
+    }
+
+    #sec_04 .div_add_cont .title01 {
+        font-size: 3vw;
+        margin-top: 0.5vw;
+        align-items: baseline;
+    }
+
+    #sec_04 .div_add_cont .title01 img {
+        margin-right: 1.5vw;
+    }
+
+    #sec_04 .div_add_cont .title01 .f_small {
+        font-size: 1.5vw;
+    }
+
+    #sec_04 .div_add_cont .title02 {
+        font-size: 2.7vw;
+        padding-bottom: 0.8vw;
+    }
+
+    #sec_04 .div_add_cont .title02 .f_big {
+        font-size: 3.6vw;
+    }
+
+    #sec_04 .div_add_cont .title02::after {
+        width: 56.5vw;
+        height: 1vw;
+    }
+
+    #sec_04 .div_add_cont::before {
+        border-bottom: 12.1vw solid transparent;
+    }
+    #sec_04 .div_add_cont {
+        background-position: left top 6.5vw;
+        background-size: 29.4vw 55.3vw;
+    }
+    #sec_04 .div_add_cont .title03 {
+        font-size: 2.5vw;
+        margin-top: 8.5vw;
+        margin-bottom: 5.5vw;
+    }
+    #sec_04 .div_add_cont .title03 .f_big {
+        font-size: 5vw;
+        padding-bottom: 0.5vw;
+    }
+    #sec_04 .div_add_cont .title03::after {
+        max-width: 74vw;
+        height: 1.9vw;
+        bottom: 0.4vw;
+    }
+    #sec_05 .div_bg {
+        margin-top: 5vw;
+        padding-bottom: 2vw;
+    }
+    #sec_05 .div_bg .title {
+        font-size: 2.4vw;
+    }
+    #sec_05 .div_bg .title .f_big {
+        font-size: 4vw;
+    }
+    #sec_05 .div_bg .note {
+        font-size: 1.6vw;
+        margin-top: 1.3vw;
+        margin-bottom: 5.5vw;
+    }
+    #sec_06 .div_ul {
+        margin-top: 9vw;
+    }
+    #sec_06 .div_content {
+        max-width: 84.8vw;
+        min-height: 21.2vw;
+        padding: 3vw 7vw 2vw 7vw;
+    }
+    #sec_06 .div_content .title_div .icon {
+        min-width: 5vw;
+        margin-right: 3vw;
+    }
+    #sec_06 .div_content .title_div .title {
+        font-size: 2.4vw;
+        display: flex;
+        align-items:baseline;
+    }
+    #sec_06 .div_content .title_div .title .f_big {
+        font-size: 2.8vw;
+    }
+    #sec_06 .div_content .txt {
+        font-size: 1.2vw;
+        margin-top: -1vw;
+    }
+    #sec_07 .div_all_content {
+        margin-top: 8.5vw;
+        padding-left: 3.8vw;
+        padding-right: 3.8vw;
+        padding-top: 2.5vw;
+        padding-bottom: 8vw;
+        margin-bottom: 5.5vw;
+    }
+    #sec_07 .div_all_content .title {
+        font-size: 2vw;
+        padding-left: 2.2vw;
+        padding-right: 2.2vw;
+        margin-bottom: 3.3vw;
+    }
+    #sec_07 .div_all_content .div_content {
+        margin-bottom: 4vw;
+    }
+    #sec_07 .div_all_content .div_content .div_img .txt {
+        font-size: 2vw;
+        margin-top: 2vw;
+    }
+    #sec_07 .div_all_content .div_content .text {
+        padding-top: 1vw;
+    }
+    #sec_07 .div_all_content .div_content .text .title01 {
+        font-size: 2.2vw;
+    }
+    #sec_07 .div_all_content .div_content .text .txt {
+        font-size: 12px;
+        margin-top: 1vw;
+        margin-bottom: 1vw;
+    }
+    #sec_07 .div_all_content .title02 span {
+        font-size: 2.6vw;
+    }
+    #sec_07 .div_all_content .div_conten02 .item .txt {
+        margin-top: 2.5vw;
+    }
+    #sec_08 .div_all_content {
+        margin-top: 5vw;
+        margin-bottom: 5.5vw;
+        padding-left: 4.2vw;
+        padding-right: 4.2vw;
+        padding-top: 1vw;
+        padding-bottom: 3vw;
+    }
+    #sec_08 .div_all_content .title {
+        margin-top: 2.4vw;
+    }
+    #sec_08 .div_all_content .title span {
+        font-size: 2vw;
+        padding-left: 0.5vw;
+        padding-right: 0.5vw;
+    }
+    #sec_08 .div_all_content .title span:after {
+        bottom: 0.5vw;
+        height: 0.8vw;
+    }
+    #sec_08 .div_all_content .div_qa_all .item {
+        padding-bottom: 2.4vw;
+        padding-top: 1vw;
+    }
+    #sec_08 .div_all_content .div_qa_all .item .div_q {
+        font-size: 1.4vw;
+        min-height: 5vw;
+        padding-left: 6vw;
+        padding-right: 1vw;
+        background-size: 4.6vw;
+    }
+    #sec_08 .div_all_content .div_qa_all .item .div_a {
+        margin-top: 1vw;
+    }
+    #sec_08 .div_all_content .div_qa_all .item .div_a span {
+        font-size: 1.4vw;
+        min-height: 7.8vw;
+        padding-left: 3.6vw;
+        padding-right: 1vw;
+        background-position: center left -5vw;
+        background-size: 4.5vw;
+        max-width: calc(100% - 2.25vw);
+    }
+    #sec_08 .div_all_content .div_qa_all .item .div_a span::before {
+        height: 4.5vw;
+        width: 4.5vw;
+    }
+    #sec_09 .title {
+        padding-left: 5.8vw;
+        padding-right: 5.8vw;
+        margin-top: 3.5vw;
+        margin-bottom: 2.5vw;
+    }
+    #sec_09 .title span {
+        font-size: 1.8vw;
+    }
+    #sec_09 .div_all_content {
+        padding-top: 2.8vw;
+        padding-bottom: 4vw;
+        margin-bottom: 5vw;
+    }
+    #sec_10 .div_all {
+        margin-top: 5vw;
+        margin-bottom: 6vw;
+    }
+    #sec_10 .div_cont2 {
+        padding-top: 3.5vw;
+        padding-bottom: 6vw;
+    }
+    #sec_10 .div_cont2 .title02 {
+        font-size: 3vw;
+        padding-bottom: 1vw;
+        margin-bottom: 5vw;
+    }
+    #sec_10 .div_cont2 .div_btn a {
+        font-size: 3.6vw;
+        max-width: 50vw;
+        height: 7.5vw;
+    }
+    #sec_10 .div_cont2 .div_btn a .f_small {
+        font-size: 2.4vw;
+    }
+    .all_ft {
+        padding-top: 3vw;
+        padding-bottom: 0.5vw;
+    }
+    .all_ft .txt {
+        margin-top: 1.5vw;
+        margin-bottom: 3vw;
     }
 }
 
-@media screen and (max-width:767px){
-    .hide_sp{
+@media screen and (max-width:767px) {
+    .hide_sp {
         display: none;
     }
-    .show_sp{
+
+    .show_sp {
         display: inline-block;
     }
 }
