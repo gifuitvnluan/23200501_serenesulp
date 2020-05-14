@@ -206,63 +206,78 @@
     #sec_04 .div_add_cont::before {
         border-bottom: 12.1vw solid transparent;
     }
+
     #sec_04 .div_add_cont {
         background-position: left top 6.5vw;
         background-size: 29.4vw 55.3vw;
     }
+
     #sec_04 .div_add_cont .title03 {
         font-size: 2.5vw;
         margin-top: 8.5vw;
         margin-bottom: 5.5vw;
     }
+
     #sec_04 .div_add_cont .title03 .f_big {
         font-size: 5vw;
         padding-bottom: 0.5vw;
     }
+
     #sec_04 .div_add_cont .title03::after {
         max-width: 74vw;
         height: 1.9vw;
         bottom: 0.4vw;
     }
+
     #sec_05 .div_bg {
         margin-top: 5vw;
         padding-bottom: 2vw;
     }
+
     #sec_05 .div_bg .title {
         font-size: 2.4vw;
     }
+
     #sec_05 .div_bg .title .f_big {
         font-size: 4vw;
     }
+
     #sec_05 .div_bg .note {
         font-size: 1.6vw;
         margin-top: 1.3vw;
         margin-bottom: 5.5vw;
     }
+
     #sec_06 .div_ul {
         margin-top: 9vw;
     }
+
     #sec_06 .div_content {
         max-width: 84.8vw;
         min-height: 21.2vw;
         padding: 3vw 7vw 2vw 7vw;
     }
+
     #sec_06 .div_content .title_div .icon {
         min-width: 5vw;
         margin-right: 3vw;
     }
+
     #sec_06 .div_content .title_div .title {
         font-size: 2.4vw;
         display: flex;
-        align-items:baseline;
+        align-items: baseline;
     }
+
     #sec_06 .div_content .title_div .title .f_big {
         font-size: 2.8vw;
     }
+
     #sec_06 .div_content .txt {
         font-size: 1.2vw;
         margin-top: -1vw;
     }
+
     #sec_07 .div_all_content {
         margin-top: 8.5vw;
         padding-left: 3.8vw;
@@ -271,36 +286,45 @@
         padding-bottom: 8vw;
         margin-bottom: 5.5vw;
     }
+
     #sec_07 .div_all_content .title {
         font-size: 2vw;
         padding-left: 2.2vw;
         padding-right: 2.2vw;
         margin-bottom: 3.3vw;
     }
+
     #sec_07 .div_all_content .div_content {
         margin-bottom: 4vw;
     }
+
     #sec_07 .div_all_content .div_content .div_img .txt {
         font-size: 2vw;
         margin-top: 2vw;
     }
+
     #sec_07 .div_all_content .div_content .text {
         padding-top: 1vw;
     }
+
     #sec_07 .div_all_content .div_content .text .title01 {
         font-size: 2.2vw;
     }
+
     #sec_07 .div_all_content .div_content .text .txt {
         font-size: 12px;
         margin-top: 1vw;
         margin-bottom: 1vw;
     }
+
     #sec_07 .div_all_content .title02 span {
         font-size: 2.6vw;
     }
+
     #sec_07 .div_all_content .div_conten02 .item .txt {
         margin-top: 2.5vw;
     }
+
     #sec_08 .div_all_content {
         margin-top: 5vw;
         margin-bottom: 5.5vw;
@@ -309,22 +333,27 @@
         padding-top: 1vw;
         padding-bottom: 3vw;
     }
+
     #sec_08 .div_all_content .title {
         margin-top: 2.4vw;
     }
+
     #sec_08 .div_all_content .title span {
         font-size: 2vw;
         padding-left: 0.5vw;
         padding-right: 0.5vw;
     }
+
     #sec_08 .div_all_content .title span:after {
         bottom: 0.5vw;
         height: 0.8vw;
     }
+
     #sec_08 .div_all_content .div_qa_all .item {
         padding-bottom: 2.4vw;
         padding-top: 1vw;
     }
+
     #sec_08 .div_all_content .div_qa_all .item .div_q {
         font-size: 1.4vw;
         min-height: 5vw;
@@ -332,9 +361,11 @@
         padding-right: 1vw;
         background-size: 4.6vw;
     }
+
     #sec_08 .div_all_content .div_qa_all .item .div_a {
         margin-top: 1vw;
     }
+
     #sec_08 .div_all_content .div_qa_all .item .div_a span {
         font-size: 1.4vw;
         min-height: 7.8vw;
@@ -344,52 +375,71 @@
         background-size: 4.5vw;
         max-width: calc(100% - 2.25vw);
     }
+
     #sec_08 .div_all_content .div_qa_all .item .div_a span::before {
         height: 4.5vw;
         width: 4.5vw;
     }
+
     #sec_09 .title {
         padding-left: 5.8vw;
         padding-right: 5.8vw;
         margin-top: 3.5vw;
         margin-bottom: 2.5vw;
     }
+
     #sec_09 .title span {
         font-size: 1.8vw;
     }
+
     #sec_09 .div_all_content {
         padding-top: 2.8vw;
         padding-bottom: 4vw;
         margin-bottom: 5vw;
     }
+
     #sec_10 .div_all {
         margin-top: 5vw;
         margin-bottom: 6vw;
     }
+
     #sec_10 .div_cont2 {
         padding-top: 3.5vw;
         padding-bottom: 6vw;
     }
+
     #sec_10 .div_cont2 .title02 {
         font-size: 3vw;
         padding-bottom: 1vw;
         margin-bottom: 5vw;
     }
+
     #sec_10 .div_cont2 .div_btn a {
         font-size: 3.6vw;
         max-width: 50vw;
         height: 7.5vw;
     }
+
     #sec_10 .div_cont2 .div_btn a .f_small {
         font-size: 2.4vw;
     }
+
     .all_ft {
         padding-top: 3vw;
         padding-bottom: 0.5vw;
     }
+
     .all_ft .txt {
         margin-top: 1.5vw;
         margin-bottom: 3vw;
+    }
+
+    #sec_01 {
+        background-size: 49.9vw, cover;
+    }
+
+    #sec_01 .txt_note2 .f_small {
+        font-size: 2.4vw;
     }
 }
 
@@ -400,5 +450,559 @@
 
     .show_sp {
         display: inline-block;
+    }
+
+    #sec_01 {
+        padding-top: 40px;
+        padding-bottom: 80px;
+        background-size: 200px, cover;
+        background-position: bottom right;
+    }
+
+    #sec_01 .title01 {
+        font-size: 16px;
+        padding-left: 5px;
+        padding-right: 5px;
+        margin-bottom: 15px;
+    }
+
+    #sec_01 .txt_note {
+        font-size: 18px;
+    }
+
+    #sec_01 .txt_note .txt_fuw {
+        font-size: 24px;
+    }
+
+    #sec_01 .txt_note2 {
+        font-size: 16px;
+    }
+
+    #sec_01 .txt_note2 .f_small {
+        font-size: 12px;
+    }
+
+    #sec_01 .txt {
+        font-size: 14px;
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+
+    #sec_01 .ul_txt li {
+        font-size: 14px;
+        width: 100%;
+        max-width: 130px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
+
+    #sec_01 .ul_txt {
+        margin-bottom: 10px;
+    }
+
+    #sec_01 .img01 {
+        margin-bottom: 20px;
+    }
+
+    #sec_01 .img02 {
+        margin-bottom: 10px;
+    }
+
+    .title_style01 {
+        font-size: 20px;
+        padding-top: 8px;
+        padding-bottom: 3px;
+    }
+
+    #sec_02 .all_content {
+        padding-top: 40px;
+        padding-bottom: 10px;
+    }
+
+    #sec_02 .all_content .ul_cont li {
+        /* max-width: 287px; */
+        width: 100%;
+        margin-bottom: 40px;
+        position: relative;
+        margin-left: 6px;
+        margin-right: 6px;
+    }
+
+    #sec_02 .all_content .ul_cont li .img {
+        text-align: center;
+    }
+
+    #sec_02 .all_content .ul_cont li .img img {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #sec_02 .all_content .ul_cont {
+        margin-bottom: 20px;
+        justify-content: center
+    }
+
+    #sec_02 .all_content .ul_cont li .txt {
+        font-size: 14px;
+        margin-top: 5px;
+    }
+
+    #sec_02 .all_content .ul_cont li::after {
+        content: "";
+        width: 15px;
+        height: 18px;
+        background-image: url(../images/top_arrow.png);
+        position: absolute;
+        bottom: -10px;
+        right: 50%;
+        transform: translate(-0%, 100%) rotate(90deg);
+        -webkit-transform: translate(-0%, 100%) rotate(90deg);
+        -moz-transform: translate(-0%, 100%) rotate(90deg);
+        -ms-transform: translate(-0%, 100%) rotate(90deg);
+        -o-transform: translate(-0%, 100%) rotate(90deg);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+
+    #sec_02 .all_content .ul_cont li:last-child::after,
+    #sec_02 .all_content .ul_cont li .img::after {
+        content: none;
+    }
+
+    #sec_02 .div_all {
+        max-width: none;
+        min-height: none;
+        padding: 15px 20px;
+        background-image: none;
+        border: 3px double #274125;
+    }
+
+    #sec_02 .div_all .title_div .title img {
+        display: block;
+        padding-top: 0px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #sec_02 .div_all .title_div .icon {
+        min-width: 30px;
+        margin-right: 5px;
+    }
+
+    #sec_02 .div_all .txt {
+        max-width: none;
+        font-size: 12px;
+        margin-top: 5px;
+    }
+
+    #sec_02 .div_all .title_div .title .f_big {
+        font-size: 20px;
+    }
+
+    #sec_02 .div_all .title_div .title {
+        font-size: 16px;
+    }
+
+    #sec_03 .all_conten .div_txt {
+        padding-top: 30px;
+        padding-bottom: 40px;
+    }
+
+    #sec_03 .all_conten .div_txt .title {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+
+    #sec_03 .all_conten .div_txt .title .f_small {
+        font-size: 14px;
+    }
+
+    #sec_03 .all_conten .div_txt .note {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+
+    #sec_03 .all_conten .div_txt .txt {
+        font-size: 12px;
+    }
+
+    #sec_04 .div_text.div_text01 {
+        margin-top: 40px;
+        max-width: 100%;
+    }
+
+    #sec_04 .div_text .title {
+        font-size: 20px;
+        margin-bottom: 10px;
+        padding-left: 25px;
+    }
+
+    #sec_04 .div_text .title .f_small {
+        font-size: 14px;
+    }
+
+    #sec_04 .div_text .title::before {
+        font-size: 24px;
+        left: 0;
+        transform: translateX(0);
+        -webkit-transform: translateX(0);
+        -moz-transform: translateX(0);
+        -ms-transform: translateX(0);
+        -o-transform: translateX(0);
+    }
+
+    #sec_04 .div_text .txt {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    #sec_04 .div_text .img {
+        flex-wrap: wrap;
+    }
+
+    #sec_04 .div_text .img img {
+        width: 48%;
+        margin-bottom: 10px;
+    }
+
+    #sec_04 .div_text.div_text02 {
+        max-width: none;
+        width: 100%;
+        margin-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    #sec_04 .div_text.div_text02 .title {
+        margin-left: 0;
+        margin-bottom: 10px;
+        margin-top: 40px;
+    }
+
+    #sec_04 .cont01 {
+        background-position: bottom center;
+        padding-bottom: 290px;
+        background-size: 160px 292px;
+    }
+
+    #sec_04 .div_add_cont .title01 {
+        font-size: 20px;
+        margin-top: 10px;
+        display: block;
+        text-align: center;
+    }
+
+    #sec_04 .div_add_cont .title01 .f_small {
+        font-size: 14px;
+    }
+
+    #sec_04 .div_add_cont .title01 img {
+        margin-right: auto;
+        margin-left: auto;
+        width: 100%;
+        max-width: 237px;
+        display: block;
+    }
+
+    #sec_04 .div_add_cont .title02 {
+        font-size: 14px;
+        padding-bottom: 5px;
+    }
+
+    #sec_04 .div_add_cont .title02::after {
+        width: 200px;
+        height: 5px;
+    }
+
+    #sec_04 .div_add_cont .title02 .f_big {
+        font-size: 16px;
+    }
+
+    #sec_04 .div_add_cont .title03 {
+        font-size: 20px;
+        margin-top: 40px;
+        margin-bottom: 50px;
+    }
+
+    #sec_04 .div_add_cont .title03 img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #sec_04 .div_add_cont .title03::after {
+        max-width: 240px;
+        height: 10px;
+        bottom: 4px;
+    }
+
+    #sec_05 .div_bg .title {
+        font-size: 16px;
+    }
+
+    #sec_05 .div_bg .title .f_big {
+        font-size: 18px;
+    }
+
+    #sec_05 .div_bg .title img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #sec_05 .div_bg .note {
+        font-size: 14px;
+        margin-top: 15px;
+        margin-bottom: 20px;
+    }
+
+    #sec_05 .div_bg .img {
+        width: 100%;
+        margin-right: 0%;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    #sec_05 .div_bg .img img {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #sec_05 .div_bg .txt {
+        width: 100%;
+        font-size: 12px;
+        margin-bottom: 30px;
+    }
+
+    #sec_06 .div_ul li {
+        width: 100%;
+        margin-right: 0%;
+        position: relative;
+        margin-bottom: 30px;
+    }
+
+    #sec_06 .div_ul li .img {
+        max-width: 190px;
+        height: 195px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #sec_06 .div_ul li .title {
+        width: 100%;
+        max-width: 190px;
+        font-size: 14px;
+        padding-bottom: 7px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #sec_06 .div_ul li .title::before {
+        font-size: 22px;
+    }
+
+    #sec_06 .div_ul li .txt {
+        text-align: left;
+        padding-top: 10px;
+        padding-bottom: 15px;
+        max-width: 200px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #sec_06 .div_ul li .img:after {
+        content: none;
+    }
+
+    #sec_06 .div_ul li:after {
+        content: "";
+        height: 17px;
+        width: 14px;
+        background-image: url(../images/top_arrow2.png);
+        background-repeat: no-repeat;
+        background-position: center center;
+        position: absolute;
+        right: 50%;
+        bottom: 0%;
+        transform: translate(-0%, 100%) rotate(90deg);
+        -webkit-transform: translate(-0%, 100%) rotate(90deg);
+        -moz-transform: translate(-0%, 100%) rotate(90deg);
+        -ms-transform: translate(-0%, 100%) rotate(90deg);
+        -o-transform: translate(-0%, 100%) rotate(90deg);
+    }
+
+    #sec_06 .div_content {
+        max-width: none;
+        min-height: none;
+        padding: 15px 20px;
+        background-image: none;
+        border: 3px double #274125;
+    }
+
+    #sec_06 .div_content .title_div .title {
+        font-size: 18px;
+        display: block;
+    }
+    #sec_06 .div_content .title_div .title img {
+        display: block;
+        padding-top: 0;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #sec_06 .div_content .txt {
+        font-size: 12px;
+        margin-top: 10px;
+    }
+    #sec_07 .div_all_content {
+        margin-top: 40px;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 20px;
+        padding-bottom: 10px;
+        margin-bottom: 30px;
+    }
+    #sec_07 .div_all_content .title {
+        font-size: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-bottom: 20px;
+    }
+    #sec_07 .div_all_content .div_content .div_img {
+        width: 100%;
+        margin-right: 0%;
+    }
+
+    #sec_07 .div_all_content .div_content .div_img .img img{
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #sec_07 .div_all_content .div_content .text {
+        width: 100%;
+        padding-top: 10px;
+    }
+    #sec_07 .div_all_content .div_content .text .title01 {
+        font-size: 18px;
+    }
+    #sec_07 .div_all_content .div_content .text .txt {
+        font-size: 12px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    #sec_07 .div_all_content .title02 span {
+        font-size: 18px;
+    }
+
+    #sec_07 .div_all_content .div_conten02 .item {
+        width: 100%;
+        max-width: 330px;
+        margin-bottom: 15px;
+    }
+    #sec_07 .div_all_content .div_conten02{
+        justify-content: center;
+    }
+    #sec_08 .div_all_content {
+        margin-top: 40px;
+        margin-bottom: 30px;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+    #sec_08 .div_all_content .title span {
+        font-size: 18px;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    #sec_08 .div_all_content .div_qa_all .item .div_q {
+        font-size: 14px;
+        min-height: 35px;
+        padding-left: 45px;
+        padding-right: 10px;
+        background-size: 35px;
+    }
+    #sec_08 .div_all_content .div_qa_all .item .div_a {
+        margin-top: 10px;
+    }
+    #sec_08 .div_all_content .div_qa_all .item .div_a span {
+        font-size: 14px;
+        min-height: 50px;
+        padding-left: 20px;
+        padding-right: 10px;
+        background-position: center left -15px;
+        background-size: 35px;
+        max-width: calc(100% - 18px);
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    #sec_08 .div_all_content .div_qa_all .item .div_a span::before {
+        height: 35px;
+        width: 35px;
+    }
+    #sec_09 .title {
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-top: 30px;
+        margin-bottom: 15px;
+    }
+    #sec_09 .title span {
+        font-size: 16px;
+    }
+    #sec_09 .div_all_content {
+        padding-top: 20px;
+        padding-bottom: 30px;
+        margin-bottom: 40px;
+    }
+    #sec_10 .div_all {
+        margin-top: 40px;
+        margin-bottom: 50px;
+        justify-content: center
+    }
+    #sec_10 .div_all .img {
+        width: 100%;
+        max-width: 436px;
+        margin-right: 0%;
+    }
+    #sec_10 .div_all .div_conten {
+        max-width: none;
+        width: 100%;
+        margin-top: 15px;
+    }
+    #sec_10 .div_all .div_conten table {
+        width: 100%;
+    }
+    #sec_10 .div_cont2 {
+        padding-top: 30px;
+        padding-bottom: 50px;
+    }
+    #sec_10 .div_cont2 .title02 {
+        font-size: 22px;
+        padding-bottom: 10px;
+        margin-bottom: 30px;
+    }
+    #sec_10 .div_cont2 .div_btn a {
+        font-size: 24px;
+        max-width: 360px;
+        height: 55px;
+    }
+    .all_ft {
+        padding-top: 30px;
+        padding-bottom: 10px;
+    }
+    .all_ft .txt {
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    #sec_08 .div_all_content .title span{
+        overflow: hidden;
+        position: relative;
+        display: inline-block;
+    }
+    #sec_08 .div_all_content .title span:after {
+        bottom: 0px;
+        height: 10px;
     }
 }

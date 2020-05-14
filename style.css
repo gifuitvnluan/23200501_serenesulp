@@ -1236,7 +1236,7 @@ span.pages {
 	flex-wrap: wrap;
 	padding-left: 36px;
 	padding-right: 10px;
-	background-image: url(./assets/images/a_icon01.png);
+	/* background-image: url(./assets/images/a_icon01.png); */
 	background-repeat: no-repeat;
 	background-position: center left -50px;
 	position: relative;
